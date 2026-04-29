@@ -1,0 +1,4 @@
+{"version":3,"term":{"cols":80,"rows":24,"type":"dumb"},"timestamp":1777482300,"command":"printf 'Sam\\nmaybe\\n' | uv run brain-even","env":{"SHELL":"/bin/zsh"}}
+[0.232, "o", "Traceback (most recent call last):\r\n"]
+[0.001, "o", "  File \"/Users/bogdanm/Documents/Front-end_projects/Brain_games_py/python-project-49/.venv/bin/brain-even\", line 4, in <module>\r\n    from brain_games.scripts.brain_even import main\r\nModuleNotFoundError: No module named 'brain_games'\r\n"]
+[0.005, "x", "1"]

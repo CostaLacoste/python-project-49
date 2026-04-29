@@ -1,0 +1,378 @@
+import _frozen_importlib # frozen
+import _imp # builtin
+import '_thread' # <class '_frozen_importlib.BuiltinImporter'>
+import '_warnings' # <class '_frozen_importlib.BuiltinImporter'>
+import '_weakref' # <class '_frozen_importlib.BuiltinImporter'>
+import '_io' # <class '_frozen_importlib.BuiltinImporter'>
+import 'marshal' # <class '_frozen_importlib.BuiltinImporter'>
+import 'posix' # <class '_frozen_importlib.BuiltinImporter'>
+import '_frozen_importlib_external' # <class '_frozen_importlib.FrozenImporter'>
+# installing zipimport hook
+import 'time' # <class '_frozen_importlib.BuiltinImporter'>
+import 'zipimport' # <class '_frozen_importlib.FrozenImporter'>
+# installed zipimport hook
+# /opt/homebrew/Cellar/python@3.14/3.14.4/Frameworks/Python.framework/Versions/3.14/lib/python3.14/encodings/__pycache__/__init__.cpython-314.pyc matches /opt/homebrew/Cellar/python@3.14/3.14.4/Frameworks/Python.framework/Versions/3.14/lib/python3.14/encodings/__init__.py
+# code object from '/opt/homebrew/Cellar/python@3.14/3.14.4/Frameworks/Python.framework/Versions/3.14/lib/python3.14/encodings/__pycache__/__init__.cpython-314.pyc'
+import '_codecs' # <class '_frozen_importlib.BuiltinImporter'>
+import 'codecs' # <class '_frozen_importlib.FrozenImporter'>
+# /opt/homebrew/Cellar/python@3.14/3.14.4/Frameworks/Python.framework/Versions/3.14/lib/python3.14/encodings/__pycache__/aliases.cpython-314.pyc matches /opt/homebrew/Cellar/python@3.14/3.14.4/Frameworks/Python.framework/Versions/3.14/lib/python3.14/encodings/aliases.py
+# code object from '/opt/homebrew/Cellar/python@3.14/3.14.4/Frameworks/Python.framework/Versions/3.14/lib/python3.14/encodings/__pycache__/aliases.cpython-314.pyc'
+import 'encodings.aliases' # <_frozen_importlib_external.SourceFileLoader object at 0x1047e5f90>
+import 'encodings' # <_frozen_importlib_external.SourceFileLoader object at 0x1047612b0>
+# /opt/homebrew/Cellar/python@3.14/3.14.4/Frameworks/Python.framework/Versions/3.14/lib/python3.14/encodings/__pycache__/utf_8.cpython-314.pyc matches /opt/homebrew/Cellar/python@3.14/3.14.4/Frameworks/Python.framework/Versions/3.14/lib/python3.14/encodings/utf_8.py
+# code object from '/opt/homebrew/Cellar/python@3.14/3.14.4/Frameworks/Python.framework/Versions/3.14/lib/python3.14/encodings/__pycache__/utf_8.cpython-314.pyc'
+import 'encodings.utf_8' # <_frozen_importlib_external.SourceFileLoader object at 0x1047e60d0>
+import '_signal' # <class '_frozen_importlib.BuiltinImporter'>
+import '_abc' # <class '_frozen_importlib.BuiltinImporter'>
+import 'abc' # <class '_frozen_importlib.FrozenImporter'>
+import '_stat' # <class '_frozen_importlib.BuiltinImporter'>
+import 'stat' # <class '_frozen_importlib.FrozenImporter'>
+import '_collections_abc' # <class '_frozen_importlib.FrozenImporter'>
+import 'errno' # <class '_frozen_importlib.BuiltinImporter'>
+import 'genericpath' # <class '_frozen_importlib.FrozenImporter'>
+import 'posixpath' # <class '_frozen_importlib.FrozenImporter'>
+import 'os' # <class '_frozen_importlib.FrozenImporter'>
+import '_sitebuiltins' # <class '_frozen_importlib.FrozenImporter'>
+Processing global site-packages
+Adding directory: '/Users/bogdanm/Documents/Front-end_projects/Brain_games_py/python-project-49/.venv/lib/python3.14/site-packages'
+Skipping hidden .pth file: '/Users/bogdanm/Documents/Front-end_projects/Brain_games_py/python-project-49/.venv/lib/python3.14/site-packages/_editable_impl_hexlet_code.pth'
+Skipping hidden .pth file: '/Users/bogdanm/Documents/Front-end_projects/Brain_games_py/python-project-49/.venv/lib/python3.14/site-packages/_virtualenv.pth'
+Processing user site-packages
+Processing global site-packages
+Adding directory: '/Users/bogdanm/Documents/Front-end_projects/Brain_games_py/python-project-49/.venv/lib/python3.14/site-packages'
+Skipping hidden .pth file: '/Users/bogdanm/Documents/Front-end_projects/Brain_games_py/python-project-49/.venv/lib/python3.14/site-packages/_editable_impl_hexlet_code.pth'
+Skipping hidden .pth file: '/Users/bogdanm/Documents/Front-end_projects/Brain_games_py/python-project-49/.venv/lib/python3.14/site-packages/_virtualenv.pth'
+# /opt/homebrew/Cellar/python@3.14/3.14.4/Frameworks/Python.framework/Versions/3.14/lib/python3.14/__pycache__/sitecustomize.cpython-314.pyc matches /opt/homebrew/Cellar/python@3.14/3.14.4/Frameworks/Python.framework/Versions/3.14/lib/python3.14/sitecustomize.py
+# code object from '/opt/homebrew/Cellar/python@3.14/3.14.4/Frameworks/Python.framework/Versions/3.14/lib/python3.14/__pycache__/sitecustomize.cpython-314.pyc'
+# /opt/homebrew/Cellar/python@3.14/3.14.4/Frameworks/Python.framework/Versions/3.14/lib/python3.14/re/__pycache__/__init__.cpython-314.pyc matches /opt/homebrew/Cellar/python@3.14/3.14.4/Frameworks/Python.framework/Versions/3.14/lib/python3.14/re/__init__.py
+# code object from '/opt/homebrew/Cellar/python@3.14/3.14.4/Frameworks/Python.framework/Versions/3.14/lib/python3.14/re/__pycache__/__init__.cpython-314.pyc'
+# /opt/homebrew/Cellar/python@3.14/3.14.4/Frameworks/Python.framework/Versions/3.14/lib/python3.14/__pycache__/enum.cpython-314.pyc matches /opt/homebrew/Cellar/python@3.14/3.14.4/Frameworks/Python.framework/Versions/3.14/lib/python3.14/enum.py
+# code object from '/opt/homebrew/Cellar/python@3.14/3.14.4/Frameworks/Python.framework/Versions/3.14/lib/python3.14/__pycache__/enum.cpython-314.pyc'
+# /opt/homebrew/Cellar/python@3.14/3.14.4/Frameworks/Python.framework/Versions/3.14/lib/python3.14/__pycache__/types.cpython-314.pyc matches /opt/homebrew/Cellar/python@3.14/3.14.4/Frameworks/Python.framework/Versions/3.14/lib/python3.14/types.py
+# code object from '/opt/homebrew/Cellar/python@3.14/3.14.4/Frameworks/Python.framework/Versions/3.14/lib/python3.14/__pycache__/types.cpython-314.pyc'
+import '_types' # <class '_frozen_importlib.BuiltinImporter'>
+import 'types' # <_frozen_importlib_external.SourceFileLoader object at 0x10981b8a0>
+import 'enum' # <_frozen_importlib_external.SourceFileLoader object at 0x1047930b0>
+# /opt/homebrew/Cellar/python@3.14/3.14.4/Frameworks/Python.framework/Versions/3.14/lib/python3.14/re/__pycache__/_compiler.cpython-314.pyc matches /opt/homebrew/Cellar/python@3.14/3.14.4/Frameworks/Python.framework/Versions/3.14/lib/python3.14/re/_compiler.py
+# code object from '/opt/homebrew/Cellar/python@3.14/3.14.4/Frameworks/Python.framework/Versions/3.14/lib/python3.14/re/__pycache__/_compiler.cpython-314.pyc'
+import '_sre' # <class '_frozen_importlib.BuiltinImporter'>
+# /opt/homebrew/Cellar/python@3.14/3.14.4/Frameworks/Python.framework/Versions/3.14/lib/python3.14/re/__pycache__/_parser.cpython-314.pyc matches /opt/homebrew/Cellar/python@3.14/3.14.4/Frameworks/Python.framework/Versions/3.14/lib/python3.14/re/_parser.py
+# code object from '/opt/homebrew/Cellar/python@3.14/3.14.4/Frameworks/Python.framework/Versions/3.14/lib/python3.14/re/__pycache__/_parser.cpython-314.pyc'
+# /opt/homebrew/Cellar/python@3.14/3.14.4/Frameworks/Python.framework/Versions/3.14/lib/python3.14/re/__pycache__/_constants.cpython-314.pyc matches /opt/homebrew/Cellar/python@3.14/3.14.4/Frameworks/Python.framework/Versions/3.14/lib/python3.14/re/_constants.py
+# code object from '/opt/homebrew/Cellar/python@3.14/3.14.4/Frameworks/Python.framework/Versions/3.14/lib/python3.14/re/__pycache__/_constants.cpython-314.pyc'
+import 're._constants' # <_frozen_importlib_external.SourceFileLoader object at 0x109812a50>
+import 're._parser' # <_frozen_importlib_external.SourceFileLoader object at 0x109812050>
+# /opt/homebrew/Cellar/python@3.14/3.14.4/Frameworks/Python.framework/Versions/3.14/lib/python3.14/re/__pycache__/_casefix.cpython-314.pyc matches /opt/homebrew/Cellar/python@3.14/3.14.4/Frameworks/Python.framework/Versions/3.14/lib/python3.14/re/_casefix.py
+# code object from '/opt/homebrew/Cellar/python@3.14/3.14.4/Frameworks/Python.framework/Versions/3.14/lib/python3.14/re/__pycache__/_casefix.cpython-314.pyc'
+import 're._casefix' # <_frozen_importlib_external.SourceFileLoader object at 0x109831b80>
+import 're._compiler' # <_frozen_importlib_external.SourceFileLoader object at 0x10981acf0>
+# /opt/homebrew/Cellar/python@3.14/3.14.4/Frameworks/Python.framework/Versions/3.14/lib/python3.14/__pycache__/functools.cpython-314.pyc matches /opt/homebrew/Cellar/python@3.14/3.14.4/Frameworks/Python.framework/Versions/3.14/lib/python3.14/functools.py
+# code object from '/opt/homebrew/Cellar/python@3.14/3.14.4/Frameworks/Python.framework/Versions/3.14/lib/python3.14/__pycache__/functools.cpython-314.pyc'
+# /opt/homebrew/Cellar/python@3.14/3.14.4/Frameworks/Python.framework/Versions/3.14/lib/python3.14/collections/__pycache__/__init__.cpython-314.pyc matches /opt/homebrew/Cellar/python@3.14/3.14.4/Frameworks/Python.framework/Versions/3.14/lib/python3.14/collections/__init__.py
+# code object from '/opt/homebrew/Cellar/python@3.14/3.14.4/Frameworks/Python.framework/Versions/3.14/lib/python3.14/collections/__pycache__/__init__.cpython-314.pyc'
+import 'itertools' # <class '_frozen_importlib.BuiltinImporter'>
+# /opt/homebrew/Cellar/python@3.14/3.14.4/Frameworks/Python.framework/Versions/3.14/lib/python3.14/__pycache__/keyword.cpython-314.pyc matches /opt/homebrew/Cellar/python@3.14/3.14.4/Frameworks/Python.framework/Versions/3.14/lib/python3.14/keyword.py
+# code object from '/opt/homebrew/Cellar/python@3.14/3.14.4/Frameworks/Python.framework/Versions/3.14/lib/python3.14/__pycache__/keyword.cpython-314.pyc'
+import 'keyword' # <_frozen_importlib_external.SourceFileLoader object at 0x109857e70>
+# /opt/homebrew/Cellar/python@3.14/3.14.4/Frameworks/Python.framework/Versions/3.14/lib/python3.14/__pycache__/operator.cpython-314.pyc matches /opt/homebrew/Cellar/python@3.14/3.14.4/Frameworks/Python.framework/Versions/3.14/lib/python3.14/operator.py
+# code object from '/opt/homebrew/Cellar/python@3.14/3.14.4/Frameworks/Python.framework/Versions/3.14/lib/python3.14/__pycache__/operator.cpython-314.pyc'
+import '_operator' # <class '_frozen_importlib.BuiltinImporter'>
+import 'operator' # <_frozen_importlib_external.SourceFileLoader object at 0x1098dd570>
+# /opt/homebrew/Cellar/python@3.14/3.14.4/Frameworks/Python.framework/Versions/3.14/lib/python3.14/__pycache__/reprlib.cpython-314.pyc matches /opt/homebrew/Cellar/python@3.14/3.14.4/Frameworks/Python.framework/Versions/3.14/lib/python3.14/reprlib.py
+# code object from '/opt/homebrew/Cellar/python@3.14/3.14.4/Frameworks/Python.framework/Versions/3.14/lib/python3.14/__pycache__/reprlib.cpython-314.pyc'
+import 'reprlib' # <_frozen_importlib_external.SourceFileLoader object at 0x1047734d0>
+import '_collections' # <class '_frozen_importlib.BuiltinImporter'>
+import 'collections' # <_frozen_importlib_external.SourceFileLoader object at 0x1098575b0>
+import '_functools' # <class '_frozen_importlib.BuiltinImporter'>
+import 'functools' # <_frozen_importlib_external.SourceFileLoader object at 0x1098328a0>
+# /opt/homebrew/Cellar/python@3.14/3.14.4/Frameworks/Python.framework/Versions/3.14/lib/python3.14/__pycache__/copyreg.cpython-314.pyc matches /opt/homebrew/Cellar/python@3.14/3.14.4/Frameworks/Python.framework/Versions/3.14/lib/python3.14/copyreg.py
+# code object from '/opt/homebrew/Cellar/python@3.14/3.14.4/Frameworks/Python.framework/Versions/3.14/lib/python3.14/__pycache__/copyreg.cpython-314.pyc'
+import 'copyreg' # <_frozen_importlib_external.SourceFileLoader object at 0x104773950>
+import 're' # <_frozen_importlib_external.SourceFileLoader object at 0x1047ea190>
+import 'sitecustomize' # <_frozen_importlib_external.SourceFileLoader object at 0x1047ea060>
+import 'site' # <class '_frozen_importlib.FrozenImporter'>
+Python 3.14.4 (main, Apr  7 2026, 13:13:20) [Clang 21.0.0 (clang-2100.0.123.102)] on darwin
+Type "help", "copyright", "credits" or "license" for more information.
+# /opt/homebrew/Cellar/python@3.14/3.14.4/Frameworks/Python.framework/Versions/3.14/lib/python3.14/__pycache__/traceback.cpython-314.pyc matches /opt/homebrew/Cellar/python@3.14/3.14.4/Frameworks/Python.framework/Versions/3.14/lib/python3.14/traceback.py
+# code object from '/opt/homebrew/Cellar/python@3.14/3.14.4/Frameworks/Python.framework/Versions/3.14/lib/python3.14/__pycache__/traceback.cpython-314.pyc'
+# /opt/homebrew/Cellar/python@3.14/3.14.4/Frameworks/Python.framework/Versions/3.14/lib/python3.14/__pycache__/linecache.cpython-314.pyc matches /opt/homebrew/Cellar/python@3.14/3.14.4/Frameworks/Python.framework/Versions/3.14/lib/python3.14/linecache.py
+# code object from '/opt/homebrew/Cellar/python@3.14/3.14.4/Frameworks/Python.framework/Versions/3.14/lib/python3.14/__pycache__/linecache.cpython-314.pyc'
+import 'linecache' # <_frozen_importlib_external.SourceFileLoader object at 0x10988f890>
+# /opt/homebrew/Cellar/python@3.14/3.14.4/Frameworks/Python.framework/Versions/3.14/lib/python3.14/__pycache__/textwrap.cpython-314.pyc matches /opt/homebrew/Cellar/python@3.14/3.14.4/Frameworks/Python.framework/Versions/3.14/lib/python3.14/textwrap.py
+# code object from '/opt/homebrew/Cellar/python@3.14/3.14.4/Frameworks/Python.framework/Versions/3.14/lib/python3.14/__pycache__/textwrap.cpython-314.pyc'
+import 'textwrap' # <_frozen_importlib_external.SourceFileLoader object at 0x10988fd90>
+# /opt/homebrew/Cellar/python@3.14/3.14.4/Frameworks/Python.framework/Versions/3.14/lib/python3.14/__pycache__/warnings.cpython-314.pyc matches /opt/homebrew/Cellar/python@3.14/3.14.4/Frameworks/Python.framework/Versions/3.14/lib/python3.14/warnings.py
+# code object from '/opt/homebrew/Cellar/python@3.14/3.14.4/Frameworks/Python.framework/Versions/3.14/lib/python3.14/__pycache__/warnings.cpython-314.pyc'
+# /opt/homebrew/Cellar/python@3.14/3.14.4/Frameworks/Python.framework/Versions/3.14/lib/python3.14/__pycache__/_py_warnings.cpython-314.pyc matches /opt/homebrew/Cellar/python@3.14/3.14.4/Frameworks/Python.framework/Versions/3.14/lib/python3.14/_py_warnings.py
+# code object from '/opt/homebrew/Cellar/python@3.14/3.14.4/Frameworks/Python.framework/Versions/3.14/lib/python3.14/__pycache__/_py_warnings.cpython-314.pyc'
+import '_contextvars' # <class '_frozen_importlib.BuiltinImporter'>
+import '_py_warnings' # <_frozen_importlib_external.SourceFileLoader object at 0x1099152d0>
+import 'warnings' # <_frozen_importlib_external.SourceFileLoader object at 0x109835c70>
+# /opt/homebrew/Cellar/python@3.14/3.14.4/Frameworks/Python.framework/Versions/3.14/lib/python3.14/__pycache__/codeop.cpython-314.pyc matches /opt/homebrew/Cellar/python@3.14/3.14.4/Frameworks/Python.framework/Versions/3.14/lib/python3.14/codeop.py
+# code object from '/opt/homebrew/Cellar/python@3.14/3.14.4/Frameworks/Python.framework/Versions/3.14/lib/python3.14/__pycache__/codeop.cpython-314.pyc'
+# /opt/homebrew/Cellar/python@3.14/3.14.4/Frameworks/Python.framework/Versions/3.14/lib/python3.14/__pycache__/__future__.cpython-314.pyc matches /opt/homebrew/Cellar/python@3.14/3.14.4/Frameworks/Python.framework/Versions/3.14/lib/python3.14/__future__.py
+# code object from '/opt/homebrew/Cellar/python@3.14/3.14.4/Frameworks/Python.framework/Versions/3.14/lib/python3.14/__pycache__/__future__.cpython-314.pyc'
+import '__future__' # <_frozen_importlib_external.SourceFileLoader object at 0x1099406e0>
+import 'codeop' # <_frozen_importlib_external.SourceFileLoader object at 0x109915b50>
+# /opt/homebrew/Cellar/python@3.14/3.14.4/Frameworks/Python.framework/Versions/3.14/lib/python3.14/__pycache__/tokenize.cpython-314.pyc matches /opt/homebrew/Cellar/python@3.14/3.14.4/Frameworks/Python.framework/Versions/3.14/lib/python3.14/tokenize.py
+# code object from '/opt/homebrew/Cellar/python@3.14/3.14.4/Frameworks/Python.framework/Versions/3.14/lib/python3.14/__pycache__/tokenize.cpython-314.pyc'
+import 'io' # <class '_frozen_importlib.FrozenImporter'>
+# /opt/homebrew/Cellar/python@3.14/3.14.4/Frameworks/Python.framework/Versions/3.14/lib/python3.14/__pycache__/token.cpython-314.pyc matches /opt/homebrew/Cellar/python@3.14/3.14.4/Frameworks/Python.framework/Versions/3.14/lib/python3.14/token.py
+# code object from '/opt/homebrew/Cellar/python@3.14/3.14.4/Frameworks/Python.framework/Versions/3.14/lib/python3.14/__pycache__/token.cpython-314.pyc'
+import 'token' # <_frozen_importlib_external.SourceFileLoader object at 0x1099518b0>
+import '_tokenize' # <class '_frozen_importlib.BuiltinImporter'>
+import 'tokenize' # <_frozen_importlib_external.SourceFileLoader object at 0x109941080>
+# /opt/homebrew/Cellar/python@3.14/3.14.4/Frameworks/Python.framework/Versions/3.14/lib/python3.14/__pycache__/_colorize.cpython-314.pyc matches /opt/homebrew/Cellar/python@3.14/3.14.4/Frameworks/Python.framework/Versions/3.14/lib/python3.14/_colorize.py
+# code object from '/opt/homebrew/Cellar/python@3.14/3.14.4/Frameworks/Python.framework/Versions/3.14/lib/python3.14/__pycache__/_colorize.cpython-314.pyc'
+# /opt/homebrew/Cellar/python@3.14/3.14.4/Frameworks/Python.framework/Versions/3.14/lib/python3.14/__pycache__/dataclasses.cpython-314.pyc matches /opt/homebrew/Cellar/python@3.14/3.14.4/Frameworks/Python.framework/Versions/3.14/lib/python3.14/dataclasses.py
+# code object from '/opt/homebrew/Cellar/python@3.14/3.14.4/Frameworks/Python.framework/Versions/3.14/lib/python3.14/__pycache__/dataclasses.cpython-314.pyc'
+# /opt/homebrew/Cellar/python@3.14/3.14.4/Frameworks/Python.framework/Versions/3.14/lib/python3.14/__pycache__/copy.cpython-314.pyc matches /opt/homebrew/Cellar/python@3.14/3.14.4/Frameworks/Python.framework/Versions/3.14/lib/python3.14/copy.py
+# code object from '/opt/homebrew/Cellar/python@3.14/3.14.4/Frameworks/Python.framework/Versions/3.14/lib/python3.14/__pycache__/copy.cpython-314.pyc'
+# /opt/homebrew/Cellar/python@3.14/3.14.4/Frameworks/Python.framework/Versions/3.14/lib/python3.14/__pycache__/weakref.cpython-314.pyc matches /opt/homebrew/Cellar/python@3.14/3.14.4/Frameworks/Python.framework/Versions/3.14/lib/python3.14/weakref.py
+# code object from '/opt/homebrew/Cellar/python@3.14/3.14.4/Frameworks/Python.framework/Versions/3.14/lib/python3.14/__pycache__/weakref.cpython-314.pyc'
+# /opt/homebrew/Cellar/python@3.14/3.14.4/Frameworks/Python.framework/Versions/3.14/lib/python3.14/__pycache__/_weakrefset.cpython-314.pyc matches /opt/homebrew/Cellar/python@3.14/3.14.4/Frameworks/Python.framework/Versions/3.14/lib/python3.14/_weakrefset.py
+# code object from '/opt/homebrew/Cellar/python@3.14/3.14.4/Frameworks/Python.framework/Versions/3.14/lib/python3.14/__pycache__/_weakrefset.cpython-314.pyc'
+import '_weakrefset' # <_frozen_importlib_external.SourceFileLoader object at 0x10999c110>
+import 'weakref' # <_frozen_importlib_external.SourceFileLoader object at 0x1099536b0>
+import 'copy' # <_frozen_importlib_external.SourceFileLoader object at 0x1099522d0>
+# /opt/homebrew/Cellar/python@3.14/3.14.4/Frameworks/Python.framework/Versions/3.14/lib/python3.14/__pycache__/inspect.cpython-314.pyc matches /opt/homebrew/Cellar/python@3.14/3.14.4/Frameworks/Python.framework/Versions/3.14/lib/python3.14/inspect.py
+# code object from '/opt/homebrew/Cellar/python@3.14/3.14.4/Frameworks/Python.framework/Versions/3.14/lib/python3.14/__pycache__/inspect.cpython-314.pyc'
+# /opt/homebrew/Cellar/python@3.14/3.14.4/Frameworks/Python.framework/Versions/3.14/lib/python3.14/__pycache__/annotationlib.cpython-314.pyc matches /opt/homebrew/Cellar/python@3.14/3.14.4/Frameworks/Python.framework/Versions/3.14/lib/python3.14/annotationlib.py
+# code object from '/opt/homebrew/Cellar/python@3.14/3.14.4/Frameworks/Python.framework/Versions/3.14/lib/python3.14/__pycache__/annotationlib.cpython-314.pyc'
+# /opt/homebrew/Cellar/python@3.14/3.14.4/Frameworks/Python.framework/Versions/3.14/lib/python3.14/__pycache__/ast.cpython-314.pyc matches /opt/homebrew/Cellar/python@3.14/3.14.4/Frameworks/Python.framework/Versions/3.14/lib/python3.14/ast.py
+# code object from '/opt/homebrew/Cellar/python@3.14/3.14.4/Frameworks/Python.framework/Versions/3.14/lib/python3.14/__pycache__/ast.cpython-314.pyc'
+import '_ast' # <class '_frozen_importlib.BuiltinImporter'>
+import 'ast' # <_frozen_importlib_external.SourceFileLoader object at 0x10999ce90>
+import 'annotationlib' # <_frozen_importlib_external.SourceFileLoader object at 0x10999c0b0>
+# /opt/homebrew/Cellar/python@3.14/3.14.4/Frameworks/Python.framework/Versions/3.14/lib/python3.14/__pycache__/dis.cpython-314.pyc matches /opt/homebrew/Cellar/python@3.14/3.14.4/Frameworks/Python.framework/Versions/3.14/lib/python3.14/dis.py
+# code object from '/opt/homebrew/Cellar/python@3.14/3.14.4/Frameworks/Python.framework/Versions/3.14/lib/python3.14/__pycache__/dis.cpython-314.pyc'
+# /opt/homebrew/Cellar/python@3.14/3.14.4/Frameworks/Python.framework/Versions/3.14/lib/python3.14/__pycache__/opcode.cpython-314.pyc matches /opt/homebrew/Cellar/python@3.14/3.14.4/Frameworks/Python.framework/Versions/3.14/lib/python3.14/opcode.py
+# code object from '/opt/homebrew/Cellar/python@3.14/3.14.4/Frameworks/Python.framework/Versions/3.14/lib/python3.14/__pycache__/opcode.cpython-314.pyc'
+import '_opcode' # <class '_frozen_importlib.BuiltinImporter'>
+# /opt/homebrew/Cellar/python@3.14/3.14.4/Frameworks/Python.framework/Versions/3.14/lib/python3.14/__pycache__/_opcode_metadata.cpython-314.pyc matches /opt/homebrew/Cellar/python@3.14/3.14.4/Frameworks/Python.framework/Versions/3.14/lib/python3.14/_opcode_metadata.py
+# code object from '/opt/homebrew/Cellar/python@3.14/3.14.4/Frameworks/Python.framework/Versions/3.14/lib/python3.14/__pycache__/_opcode_metadata.cpython-314.pyc'
+import '_opcode_metadata' # <_frozen_importlib_external.SourceFileLoader object at 0x1099f1af0>
+import 'opcode' # <_frozen_importlib_external.SourceFileLoader object at 0x1098d15b0>
+import 'dis' # <_frozen_importlib_external.SourceFileLoader object at 0x10999fcb0>
+# /opt/homebrew/Cellar/python@3.14/3.14.4/Frameworks/Python.framework/Versions/3.14/lib/python3.14/importlib/__pycache__/__init__.cpython-314.pyc matches /opt/homebrew/Cellar/python@3.14/3.14.4/Frameworks/Python.framework/Versions/3.14/lib/python3.14/importlib/__init__.py
+# code object from '/opt/homebrew/Cellar/python@3.14/3.14.4/Frameworks/Python.framework/Versions/3.14/lib/python3.14/importlib/__pycache__/__init__.cpython-314.pyc'
+import 'importlib' # <_frozen_importlib_external.SourceFileLoader object at 0x1099f2330>
+import 'importlib.machinery' # <class '_frozen_importlib.FrozenImporter'>
+import 'inspect' # <_frozen_importlib_external.SourceFileLoader object at 0x1099535f0>
+import 'dataclasses' # <_frozen_importlib_external.SourceFileLoader object at 0x109951f10>
+import '_colorize' # <_frozen_importlib_external.SourceFileLoader object at 0x109950fb0>
+# /opt/homebrew/Cellar/python@3.14/3.14.4/Frameworks/Python.framework/Versions/3.14/lib/python3.14/__pycache__/contextlib.cpython-314.pyc matches /opt/homebrew/Cellar/python@3.14/3.14.4/Frameworks/Python.framework/Versions/3.14/lib/python3.14/contextlib.py
+# code object from '/opt/homebrew/Cellar/python@3.14/3.14.4/Frameworks/Python.framework/Versions/3.14/lib/python3.14/__pycache__/contextlib.cpython-314.pyc'
+import 'contextlib' # <_frozen_importlib_external.SourceFileLoader object at 0x109951af0>
+import 'traceback' # <_frozen_importlib_external.SourceFileLoader object at 0x1098635f0>
+Traceback (most recent call last):
+  File "/Users/bogdanm/Documents/Front-end_projects/Brain_games_py/python-project-49/.venv/bin/brain-even", line 4, in <module>
+    from brain_games.scripts.brain_even import main
+  File "<frozen importlib._bootstrap>", line 1371, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 1314, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 491, in _call_with_frames_removed
+  File "<frozen importlib._bootstrap>", line 1371, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 1314, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 491, in _call_with_frames_removed
+  File "<frozen importlib._bootstrap>", line 1371, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 1335, in _find_and_load_unlocked
+ModuleNotFoundError: No module named 'brain_games'
+# clear sys.path_importer_cache
+# clear sys.path_hooks
+# clear builtins._
+# clear sys.path
+# clear sys.argv
+# clear sys.ps1
+# clear sys.ps2
+# clear sys.last_exc
+# clear sys.last_type
+# clear sys.last_value
+# clear sys.last_traceback
+# clear sys.__interactivehook__
+# clear sys.meta_path
+# restore sys.stdin
+# restore sys.stdout
+# restore sys.stderr
+# cleanup[2] removing sys
+# cleanup[2] removing builtins
+# cleanup[2] removing _frozen_importlib
+# cleanup[2] removing _imp
+# cleanup[2] removing _thread
+# cleanup[2] removing _warnings
+# cleanup[2] removing _weakref
+# cleanup[2] removing _io
+# cleanup[2] removing marshal
+# cleanup[2] removing posix
+# cleanup[2] removing _frozen_importlib_external
+# cleanup[2] removing time
+# cleanup[2] removing zipimport
+# destroy zipimport
+# cleanup[2] removing _codecs
+# cleanup[2] removing codecs
+# cleanup[2] removing encodings.aliases
+# cleanup[2] removing encodings
+# destroy encodings
+# cleanup[2] removing encodings.utf_8
+# cleanup[2] removing _signal
+# cleanup[2] removing __main__
+# destroy __main__
+# cleanup[2] removing _abc
+# cleanup[2] removing abc
+# cleanup[2] removing _stat
+# cleanup[2] removing stat
+# cleanup[2] removing _collections_abc
+# cleanup[2] removing errno
+# cleanup[2] removing genericpath
+# cleanup[2] removing posixpath
+# cleanup[2] removing os.path
+# cleanup[2] removing os
+# cleanup[2] removing _sitebuiltins
+# cleanup[2] removing _types
+# destroy _types
+# cleanup[2] removing types
+# cleanup[2] removing enum
+# cleanup[2] removing _sre
+# cleanup[2] removing re._constants
+# cleanup[2] removing re._parser
+# cleanup[2] removing re._casefix
+# cleanup[2] removing re._compiler
+# cleanup[2] removing collections.abc
+# cleanup[2] removing itertools
+# cleanup[2] removing keyword
+# cleanup[2] removing _operator
+# cleanup[2] removing operator
+# destroy operator
+# cleanup[2] removing reprlib
+# destroy reprlib
+# cleanup[2] removing _collections
+# cleanup[2] removing collections
+# cleanup[2] removing _functools
+# cleanup[2] removing functools
+# cleanup[2] removing copyreg
+# cleanup[2] removing re
+# cleanup[2] removing sitecustomize
+# destroy sitecustomize
+# cleanup[2] removing site
+# destroy site
+# cleanup[2] removing linecache
+# cleanup[2] removing textwrap
+# cleanup[2] removing _contextvars
+# cleanup[2] removing _py_warnings
+# destroy _py_warnings
+# cleanup[2] removing warnings
+# cleanup[2] removing __future__
+# cleanup[2] removing codeop
+# cleanup[2] removing io
+# cleanup[2] removing token
+# cleanup[2] removing _tokenize
+# cleanup[2] removing tokenize
+# cleanup[2] removing _weakrefset
+# destroy _weakrefset
+# cleanup[2] removing weakref
+# destroy weakref
+# cleanup[2] removing copy
+# cleanup[2] removing _ast
+# destroy _ast
+# cleanup[2] removing ast
+# cleanup[2] removing annotationlib
+# cleanup[2] removing _opcode
+# cleanup[2] removing _opcode_metadata
+# destroy _opcode_metadata
+# cleanup[2] removing opcode
+# destroy opcode
+# cleanup[2] removing dis
+# cleanup[2] removing importlib._bootstrap
+# cleanup[2] removing importlib._bootstrap_external
+# cleanup[2] removing importlib
+# cleanup[2] removing importlib.machinery
+# cleanup[2] removing inspect
+# cleanup[2] removing dataclasses
+# destroy dataclasses
+# cleanup[2] removing _colorize
+# cleanup[2] removing contextlib
+# destroy contextlib
+# cleanup[2] removing traceback
+# destroy traceback
+# destroy _signal
+# destroy _stat
+# destroy _sitebuiltins
+# destroy time
+# destroy errno
+# destroy genericpath
+# destroy stat
+# destroy posixpath
+# destroy _operator
+# destroy _collections
+# destroy _abc
+# destroy re._constants
+# destroy re._parser
+# destroy re._casefix
+# destroy re._compiler
+# destroy _sre
+# destroy copyreg
+# destroy textwrap
+# destroy codeop
+# destroy _colorize
+# destroy _contextvars
+# destroy __future__
+# destroy warnings
+# destroy _tokenize
+# destroy io
+# destroy _opcode
+# destroy importlib.machinery
+# destroy ast
+# destroy dis
+# destroy collections
+# destroy enum
+# destroy importlib
+# destroy linecache
+# destroy tokenize
+# destroy token
+# destroy functools
+# destroy re
+# destroy copy
+# destroy types
+# destroy inspect
+# destroy keyword
+# destroy itertools
+# destroy annotationlib
+# destroy _functools
+# destroy abc
+# destroy os
+# destroy _collections_abc
+# cleanup[3] wiping importlib._bootstrap_external
+# cleanup[3] wiping importlib._bootstrap
+# destroy _frozen_importlib_external
+# cleanup[3] wiping encodings.utf_8
+# cleanup[3] wiping encodings.aliases
+# cleanup[3] wiping codecs
+# cleanup[3] wiping _codecs
+# cleanup[3] wiping posix
+# cleanup[3] wiping marshal
+# destroy marshal
+# cleanup[3] wiping _io
+# cleanup[3] wiping _weakref
+# destroy _weakref
+# cleanup[3] wiping _warnings
+# destroy _warnings
+# cleanup[3] wiping _thread
+# cleanup[3] wiping _imp
+# destroy _imp
+# cleanup[3] wiping _frozen_importlib
+# cleanup[3] wiping sys
+# cleanup[3] wiping builtins
+# destroy sys.monitoring
+# destroy sys._jit
+# destroy _io
+# destroy _thread
+# destroy posix
+# clear sys.meta_path
+# clear sys.modules
+# destroy _frozen_importlib
+# destroy builtins
+# destroy codecs
+# destroy sys
+# destroy encodings.aliases
+# destroy encodings.utf_8
+# destroy _codecs
+# clear sys.audit hooks
