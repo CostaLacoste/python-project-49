@@ -9,3 +9,5 @@ package-uninstall:
 package-reinstall: build
 	uv pip uninstall brain-games
 	uv pip install --upgrade dist/*.whl
+lint:
+	uv run ruff check brain_games
