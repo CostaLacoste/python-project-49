@@ -4,6 +4,8 @@ brain-even:
 	uv run python -m brain_games.scripts.brain_even
 brain-calc:
 	uv run python -m brain_games.scripts.brain_calc
+brain-gcd:
+	uv run python -m brain_games.scripts.brain_gcd
 build:
 	uv build
 package-install: build

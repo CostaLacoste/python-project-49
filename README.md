@@ -3,3 +3,6 @@
 
 ### Brain-even demo
 [![asciicast](https://asciinema.org/a/WitmN4iLI0kEqCz9.svg)](https://asciinema.org/a/WitmN4iLI0kEqCz9)
+
+### Brain-gcd demo
+[![asciicast](https://asciinema.org/a/3rWDED3QLzWeQIZO.svg)](https://asciinema.org/a/3rWDED3QLzWeQIZO)

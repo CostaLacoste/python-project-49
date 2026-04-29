@@ -1,0 +1,5 @@
+{"version":3,"term":{"cols":80,"rows":24,"type":"dumb"},"timestamp":1777484088,"command":"sh -c 'printf \"Sam\\n1\\n\" | uv run python -c \"import itertools; import brain_games.scripts.brain_gcd as g; nums=iter([25,50]); g.random.randint=lambda a,b: next(nums); g.main()\"; printf \"Sam\\n25\\n4\\n3\\n\" | uv run python -c \"import itertools; import brain_games.scripts.brain_gcd as g; nums=iter([25,50,100,52,3,9]); g.random.randint=lambda a,b: next(nums); g.main()\"'","env":{"SHELL":"/bin/zsh"}}
+[0.036, "o", "Welcome to the Brain Games!\r\nMay I have your name? Hello, Sam!\r\nFind the greatest common divisor of given numbers.\r\nQuestion: 25 50\r\nYour answer: '1' is wrong answer ;(. Correct answer was '25'.\r\nLet's try again, Sam!\r\n"]
+[0.027, "o", "Welcome to the Brain Games!\r\nMay I have your name? Hello, Sam!\r\nFind the greatest common divisor of given numbers.\r\nQuestion: 25 50\r\nYour answer: Correct!\r\n"]
+[0.000, "o", "Question: 100 52\r\nYour answer: Correct!\r\nQuestion: 3 9\r\nYour answer: Correct!\r\nCongratulations, Sam!\r\n"]
+[0.003, "x", "0"]
